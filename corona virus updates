@@ -1,0 +1,114 @@
+<html>
+    <head>
+        <title> practice</title>
+        <link rel = "stylesheet" href="style.css"/>
+    </head>
+    <div class = "container">
+        <img src = "lo.jpg" height = "500" width = "1300" alt = "corona virus">
+        <div class = "centered"><h1>corona virus </h1></div>
+        <div class = "top"><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019" height = 300><h3>>WHO updates on covid-19</h3></a></div>
+        <div class = "gi"><a href = "https://www.mygov.in/covid-19"><h3>>India corona virus stats</h3></a></div>
+        <div class = "hi"><a href = "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov" height= 200> <h3>>global research on virus</h3></a></div>
+        <div class = "k"><strong>developed by deepak</strong></div>
+    </div>
+    <link rel="canonical" href="https://news.google.com/covid19/map">
+    <center><h1><strong>corona virus updates</strong></h1></center>
+    <iframe src="https://public.domo.com/cards/2kO6J" width="20%" height="300" marginheight="0" marginwidth="0" frameborder="70"align = left></iframe>
+    <center><iframe src="https://public.domo.com/cards/dG1jy" width="60%" height="600" marginheight="0" marginwidth="0" frameborder="70" align = center ></iframe></center>
+    <iframe src="https://public.domo.com/cards/eEY5N" width="20%" height="300" marginheight="0" marginwidth="0" frameborder="70" align =left></iframe>
+    <center><h3>vaccination updates world wide </h3></center>
+    <center><iframe src="https://public.domo.com/cards/31O7r" width="60%" height="600" marginheight="0" marginwidth="0" frameborder="70" align = center></iframe></center><br>
+    <body style="background-color:black;"></body>
+    <div id="highlight-block" class="highlight-block">
+        <div class="vacination_view">
+          <div class="register-for-vaccine"><span>Vaccination Registration</span><a class="reg-yourself" target="_blank" href="https://selfregistration.cowin.gov.in/" title="Register with  Co-Win"><img src="https://www.mygov.in/sites/all/themes/mygov/images/covid/co-win.png" alt="Register with  Co-Win",height= "500",width = "300"></a><a class="reg-witharogya" target="_blank" href="https://www.aarogyasetu.gov.in/applink/" title="Register with Aarogya Setu"><img src="https://www.mygov.in/sites/all/themes/mygov/images/covid/aarogya_btn_img.png" alt="Register with Aarogya Setu"></a><a class="reg-with-umang" target="_blank" href="https://web.umang.gov.in/web_new/login?redirect_to=&amp;utm_source=MyGov&amp;utm_medium=MyGovCovid-19" title="Register with Umang"><img src="https://www.mygov.in/sites/all/themes/mygov/images/covid/umang-logo.png" alt="Register with umang"></a> </div>
+          <div class="get-block">
+            <div class="get-cerificate"><a class="get_cert-btn" href="#" title=" Get Your Vaccination Certificate"><i></i> Get Your <br>Vaccination Certificate</a>
+                                        <div class="cowin-cerificate-wrapper">
+            <div id="cowin_certificate_form"><form autocomplete="off" action="/covid-19" method="post" id="cowin-certificate-form" accept-charset="UTF-8" novalidate="novalidate" class="ng-pristine ng-valid"><div><div class="form-item form-type-textfield form-item-mobile">
+    <label for="edit-mobile">Mobile number <span class="form-required" title="This field is required.">*</span></label>
+    <input type="text" id="edit-mobile" name="mobile" value="" size="60" maxlength="10" class="form-text required" title="">
+    <div class="description">Enter mobile number</div>
+    </div>
+    <input type="hidden" name="txn_id" value="default" title="default">
+    <input type="hidden" name="token" value="default" title="default">
+    <input type="hidden" name="certificate_code" value="default" title="default">
+    <div id="edit-buttons" class="form-wrapper"><input type="submit" id="edit-get-otp" name="op" value="Get OTP" class="form-submit ajax-processed" title="Get OTP"></div><input type="hidden" name="form_build_id" value="form-o7RGIfcfJuHvmtcOXNpS-ZZau-LFkn-kxSe2jD1mXag" title="form-o7RGIfcfJuHvmtcOXNpS-ZZau-LFkn-kxSe2jD1mXag">
+    <input type="hidden" name="form_id" value="cowin_certificate_form" title="cowin_certificate_form">
+    </div></form></div>              <div class="cowin_certificate_terms"><strong>Please Note:</strong><ul>
+</ul></div>              </div>
+            </div>
+          
+           <a class="covid-resources-btn" href="https://self4society.mygov.in/covid-resources/?utm_source=MyGov&amp;utm_medium=MyGovCovid-19" target="_blank" title="Covid Resources">Covid Resources</a></div>
+          </div>
+      </div>
+    <div class="information_row" id="dashboard">
+        <a href="#statewise-data" class="state_link" title="Statewise">Statewise</a>
+        <div class="info_title1">Cases Across India</div>
+        <div class="active-case">
+           <div class="block-active-cases">
+             <span class="icount">3,44,899</span>
+             <div class="increase_block">
+                                        <div class="color-red up-arrow">
+                    11,174 <i></i>
+                </div>
+            </div>
+            </div>
+            <div class="info_label">Active Cases  
+               <span class="per_block">(1.06%)</span>
+             </div>
+           
+        </div>
+        <div class="iblock t_case">
+            <div class="iblock_text">
+                <div class="info_label">Total Cases 
+                    <div class="per_block"></div>
+                </div>
+                <span class="icount">3,26,03,188</span>
+                <div class="increase_block">
+                                        <div class="color-red up-arrow">
+                   44,658 <i></i>
+                </div>
+            </div>
+            </div>
+        </div>
+        
+
+        <div class="iblock discharge">
+            
+            <div class="iblock_text">
+               <div class="info_label"> Discharged 
+                   <div class="per_block">
+                   (97.60%)
+                   </div>
+                </div>
+                <span class="icount">3,18,21,428</span>
+                <div class="increase_block">
+                                        <div class="color-green up-arrow">
+                    32,988 <i></i>
+                </div>
+            </div>
+            </div>
+            
+        </div>
+        <div class="iblock death_case">
+            <div class="iblock_text">
+                
+                <div class="info_label">Deaths  
+                  <div class="per_block">
+                        (1.34%)
+                  </div>
+                </div>
+                <span class="icount">4,36,861</span>
+                <div class="increase_block">
+                                        <div class="color-red up-arrow">
+                    496 <i></i>
+                </div>
+            </div>
+            </div> 
+        </div>
+
+    </div>
+      </div>
+      
+</html>
